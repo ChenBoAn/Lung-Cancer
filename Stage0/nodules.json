@@ -1,0 +1,123 @@
+{
+    "nodules": [
+        {
+            "patientID": "1",
+            "filename": "9",
+            "cordX": "99",
+            "cordY": "245",
+            "option": "a"
+        },
+        {
+            "patientID": "1",
+            "filename": "9",
+            "cordX": "360",
+            "cordY": "321",
+            "option": "b"
+        },
+        {
+            "patientID": "1",
+            "filename": "10",
+            "cordX": "99",
+            "cordY": "244",
+            "option": "a"
+        },
+        {
+            "patientID": "1",
+            "filename": "11",
+            "cordX": "100",
+            "cordY": "245",
+            "option": "a"
+        },
+        {
+            "patientID": "1",
+            "filename": "12",
+            "cordX": "102",
+            "cordY": "247",
+            "option": "a"
+        },
+        {
+            "patientID": "1",
+            "filename": "13",
+            "cordX": "106",
+            "cordY": "250",
+            "option": "a"
+        },
+        {
+            "patientID": "1",
+            "filename": "14",
+            "cordX": "103",
+            "cordY": "247",
+            "option": "a"
+        },
+        {
+            "patientID": "1",
+            "filename": "15",
+            "cordX": "121",
+            "cordY": "248",
+            "option": "a"
+        },
+        {
+            "patientID": "1",
+            "filename": "16",
+            "cordX": "132",
+            "cordY": "249",
+            "option": "a"
+        },
+        {
+            "patientID": "1",
+            "filename": "17",
+            "cordX": "138",
+            "cordY": "248",
+            "option": "a"
+        },
+        {
+            "patientID": "1",
+            "filename": "18",
+            "cordX": "146",
+            "cordY": "252",
+            "option": "a"
+        },
+        {
+            "patientID": "1",
+            "filename": "19",
+            "cordX": "146",
+            "cordY": "252",
+            "option": "a"
+        },
+        {
+            "patientID": "1",
+            "filename": "20",
+            "cordX": "146",
+            "cordY": "252",
+            "option": "a"
+        },
+        {
+            "patientID": "1",
+            "filename": "21",
+            "cordX": "166",
+            "cordY": "255",
+            "option": "a"
+        },
+        {
+            "patientID": "1",
+            "filename": "8",
+            "cordX": "99",
+            "cordY": "245",
+            "option": "a"
+        },
+        {
+            "patientID": "1",
+            "filename": "7",
+            "cordX": "99",
+            "cordY": "245",
+            "option": "a"
+        },
+        {
+            "patientID": "1",
+            "filename": "6",
+            "cordX": "102",
+            "cordY": "248",
+            "option": "a"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "nodules": [
+        {
+            "patientID": "1",
+            "filename": "61",
+            "cordX": "107",
+            "cordY": "228",
+            "option": "a"
+        },
+        {
+            "patientID": "1",
+            "filename": "62",
+            "cordX": "114",
+            "cordY": "230",
+            "option": "a"
+        },
+        {
+            "patientID": "1",
+            "filename": "63",
+            "cordX": "108",
+            "cordY": "232",
+            "option": "a"
+        },
+        {
+            "patientID": "1",
+            "filename": "64",
+            "cordX": "116",
+            "cordY": "232",
+            "option": "a"
+        }
+    ]
+}
